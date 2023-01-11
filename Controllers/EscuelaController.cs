@@ -9,8 +9,8 @@ namespace ASP.NET_CORE.Controllers
             
             var escuela = new Escuela();
             escuela.Nombre = "U.A";
-            escuela.AñoFundacion = 2005;
-            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.AñoDeCreación = 2005;
+            escuela.UniqueId = Guid.NewGuid().ToString();
             
             //mandamos la escuela como modelo hacia la vista.
             return View( escuela );
