@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\PERSONA\\Aprendizaje\\NET_C#\\Curso_ASP.NET_CORE\\ASP.NET-CORE\\Views\\Shared\\Simple.cshtml",
+      "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\PERSONA\\Aprendizaje\\NET_C#\\Curso_ASP.NET_CORE\\ASP.NET-CORE\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
