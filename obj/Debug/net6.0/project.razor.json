@@ -16341,6 +16341,11 @@
       "FilePath": "d:\\PERSONA\\Aprendizaje\\NET_C#\\Curso_ASP.NET_CORE\\ASP.NET-CORE\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PERSONA\\Aprendizaje\\NET_C#\\Curso_ASP.NET_CORE\\ASP.NET-CORE\\Views\\Asignatura\\Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

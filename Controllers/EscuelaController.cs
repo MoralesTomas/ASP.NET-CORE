@@ -11,6 +11,11 @@ namespace ASP.NET_CORE.Controllers
             escuela.Nombre = "U.A";
             escuela.AñoDeCreación = 2005;
             escuela.UniqueId = Guid.NewGuid().ToString();
+            escuela.Ciudad = "Guatemala";
+            escuela.Pais = "Guatemala ";
+            escuela.Dirección = "Avd Siempre viva";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;
+            ViewBag.CosaDinamica = "La Monja";
             
             //mandamos la escuela como modelo hacia la vista.
             return View( escuela );

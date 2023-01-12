@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\PERSONA\Aprendizaje\NET_C#\Curso_ASP.NET_CORE\ASP.NET-CORE
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/PERSONA/Aprendizaje/NET_C\#/Curso_ASP.NET_CORE/ASP.NET-CORE/Views/Asignatura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PERSONA/Aprendizaje/NET_C\#/Curso_ASP.NET_CORE/ASP.NET-CORE/Views/Escuela/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjdWVsYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
